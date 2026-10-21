@@ -50,4 +50,4 @@
 لا تلصق في هذه الخدمات أسرار الشركة أو بيانات العملاء أو كودًا لم يُنشر بعد. لا علاقة لهذا بالخط الذي تستخدمه: فما إن يُرسل المحتوى حتى يصبح على خوادم الطرف الآخر.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=overseas-access-07) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=overseas-access-07) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=overseas-access-07) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=overseas-access-07) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر

@@ -2,7 +2,7 @@
 
 > النسخة الأطول على الموقع: https://www.leotun.com/ar/guides/stay-in-touch?utm_source=github&utm_content=troubleshooting-05
 
-في [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-05) ثلاث مجموعات دعم (QQ وTelegram وDiscord)، وعنوان بريد الدعم، وحساب QQ للدعم البشري. وفي المجموعات الثلاث يناوب مساعد الدعم الذكي «سبونج بوب» (SpongeBob، واسمه بالصينية 海绵宝宝) على مدار 24 ساعة، ومعه مالك المجموعة وموظفو الدعم البشري. ولتعرف كيف تسأل ليجيبك بأدق ما يمكن، راجع [10](10-ask-ai-support.md).
+في [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-05) ثلاث مجموعات دعم (QQ وTelegram وDiscord)، وعنوان بريد الدعم، وحساب QQ للدعم البشري. وفي المجموعات الثلاث يناوب مساعد الدعم الذكي «سبونج بوب» (SpongeBob، واسمه بالصينية 海绵宝宝) على مدار 4 ساعات، ومعه مالك المجموعة وموظفو الدعم البشري. ولتعرف كيف تسأل ليجيبك بأدق ما يمكن، راجع [10](10-ask-ai-support.md).
 
 ## أي المجموعات الثلاث تختار
 
@@ -36,4 +36,4 @@
 - لا تنشر ملفات الإعدادات أو رموز QR أو روابط الاشتراك في المجموعات؛ فهي بمنزلة حسابك نفسه.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-05) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-05) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-05) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-05) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر

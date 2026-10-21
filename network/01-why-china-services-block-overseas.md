@@ -28,4 +28,4 @@
 - [قائمة فحص لمشكلات تعذّر الاتصال والبطء وانقطاع الاتصال](../troubleshooting/01-cannot-connect-slow-drops.md)
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=network-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=network-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وكل صديق تدعوه ويدفع يمنحكما معًا 20 يومًا من باقة «شخصي»، والعرض بلا تاريخ انتهاء
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=network-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=network-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وكل صديق تدعوه ويدفع يمنحكما معًا 20 يومًا من باقة «شخصي»، والعرض بلا تاريخ انتهاء

@@ -34,4 +34,4 @@
 | تستخدم بروكسي الويب | يعمل في المتصفح، ولا يعمل في التطبيقات | مشاهدة الفيديو تحتاج إلى نفق يغطي الجهاز كله؛ وبروكسي الويب يغطي المتصفح وحده |
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-03) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-03) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، صالحة لمدة طويلة
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-03) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-03) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، صالحة لمدة طويلة

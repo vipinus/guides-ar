@@ -42,4 +42,4 @@
 **هل ينقطع وحده بعد أن يبقى متصلًا مدة طويلة؟** ليس بسبب المدة. حين تنتهي صلاحية الحساب يفصلك الخادم؛ جدّد ثم اتصل من جديد.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=overseas-access-02) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=overseas-access-02) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=overseas-access-02) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=overseas-access-02) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر

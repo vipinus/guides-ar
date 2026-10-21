@@ -27,4 +27,4 @@
 لا تُجرِ معاملات بنكية على شبكة Wi-Fi عامة، سواء مررت عبر الخط أم لا. الخط لا يغيّر إلا عنوان IP الذي تخرج منه، ولا يشفّر لك شيئًا بعد البنك؛ فالأمان يأتي من التشفير الخاص بتطبيق البنك نفسه.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=china-access-04) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=china-access-04) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=china-access-04) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=china-access-04) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر

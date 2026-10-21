@@ -20,4 +20,4 @@
 - **تريد الانتقال إلى راوتر آخر**: ألغِ ربط القديم على الموقع أولًا؛ راجع [ربط عنوان MAC واستبدال الراوتر](05-mac-binding-and-replacing.md).
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=router-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=router-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 24 ساعة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=router-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=router-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
