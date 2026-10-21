@@ -26,4 +26,4 @@
 أخبر الدعم بثلاثة أشياء: اسم التطبيق وإصداره، والمنطقة، ونص الخطأ كما هو أو لقطة شاشة له.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-04) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-04) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، صالحة لمدة طويلة
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-04) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-04) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، صالحة لمدة طويلة

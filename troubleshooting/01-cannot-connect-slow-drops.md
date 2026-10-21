@@ -31,4 +31,4 @@
 إن جرّبت كل ما سبق وما زال لا يعمل، فأخبر الدعم بهذه الأمور الثلاثة: طريقة الاتصال التي تستخدمها، والمنطقة، ونص الخطأ كما هو أو لقطة شاشة. بهذه الثلاثة يمكن تحديد معظم المشكلات من المرة الأولى.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-01) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-01) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، عرض مستمر

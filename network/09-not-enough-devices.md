@@ -56,4 +56,4 @@
 النسخة العربية من هذا المقال على الموقع: https://www.leotun.com/ar/guides/device-limit?utm_source=github&utm_content=network-09
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=network-09) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=network-09) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وكل صديق تدعوه ويدفع يمنحكما معًا 20 يومًا من باقة «شخصي»، والعرض بلا تاريخ انتهاء
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=network-09) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=network-09) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وكل صديق تدعوه ويدفع يمنح كلًّا منكما 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، والعرض بلا تاريخ انتهاء

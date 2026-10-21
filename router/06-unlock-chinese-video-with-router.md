@@ -37,4 +37,4 @@
 - **البيت كله يبطؤ مع راوتر قديم**: المعالج لا يواكب الحركة المشفّرة؛ انتقل إلى طراز أعلى أداءً، وراجع [البدء مع راوتر مثبَّت عليه البرنامج مسبقًا](01-plug-and-play-router.md).
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=router-06) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=router-06) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 20 يومًا من باقة «شخصي»، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=router-06) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=router-06) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، عرض مستمر
