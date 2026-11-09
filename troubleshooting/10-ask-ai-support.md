@@ -51,4 +51,4 @@
 - لن يراسلك الدعم أبدًا على انفراد ليطلب كلمة مرور أو رمز تحقق أو دفعة، ولن يطلب منك أبدًا من تلقاء نفسه تثبيت برنامج تحكم عن بُعد.
 
 ---
-أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-10) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-10) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 4 ساعات؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، عرض مستمر
+أعدّه فريق [LeoTun](https://www.leotun.com/ar?utm_source=github&utm_content=troubleshooting-10) · لديك سؤال؟ راجع [صفحة التواصل](https://www.leotun.com/ar/contact?utm_source=github&utm_content=troubleshooting-10) (المجموعات والبريد والدعم كلها هناك) · سجّل واحصل على تجربة مجانية لمدة 30 دقيقة؛ وادعُ صديقًا يدفع فيحصل كلٌّ منكما على 15 وحدة رصيد (نحو 15 يومًا من باقة «شخصي»)، عرض مستمر
